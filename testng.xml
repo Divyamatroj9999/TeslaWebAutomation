@@ -6,7 +6,7 @@
     </listeners>
     <test  name="VehicleOrder">
         <classes>
-            <class name="QA.TestNgClasses.CheckInventory"/>
+            <class name="QA.TestNgClasses.LaunchApp"/>
         </classes>
        
     </test>
